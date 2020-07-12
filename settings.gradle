@@ -1,0 +1,3 @@
+include ':lib_tools'
+include ':app'
+rootProject.name = "AndroidDevTools"
